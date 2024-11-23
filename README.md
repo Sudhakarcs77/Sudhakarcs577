@@ -1,6 +1,3 @@
-
-Here’s an engaging introduction you can use for your GitHub profile README:
-
 👋 Hello, World! I'm Sudhakar
 🎯 Software Engineer | Data Enthusiast | Problem Solver
 
