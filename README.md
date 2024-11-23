@@ -1,4 +1,5 @@
-👋 Hello! I'm Sudhakar
+👋 Hello! 
+I'm Sudhakar
 🎯 Software Engineer | Data Enthusiast | Problem Solver
 
 I'm a passionate software engineer with over four years of experience in building impactful solutions using Python and other cutting-edge technologies. My journey began with a BTech in Computer Science from the West Godavari Institute of Science and Technology, and I've since honed my skills through real-world challenges and innovative projects.
