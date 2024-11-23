@@ -1,5 +1,5 @@
 👋 Hi, I’m Sudhakar!
-🚀 Software Engineer | Data Enthusiast | Innovator
+🚀 Software Engineer | Data Enthusiast | Problem Solver
 
 With over 4 years of experience, I specialize in building scalable solutions using Python, data analysis, and machine learning.
 
